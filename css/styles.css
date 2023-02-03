@@ -122,8 +122,27 @@ blockquote {
 }
 
 table {
-	
+	border: 3px solid #001;
+	margin: 1% 0;
+	padding: 1% 1%;
 }
+
+#fname {
+	border: 2px solid #000;
+}
+
+#lname {
+	border: 2px solid #000;
+}
+
+#email {
+	border: 2px solid #000;
+}
+
+.btn {
+	padding: 0 0 0 1%;
+}
+
 
 footer {
 	min-height: 300px;
